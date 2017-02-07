@@ -1,7 +1,7 @@
 package article
 
 import (
-	miniprop "github.com/firefirestyle/engine-v01/prop"
+	miniprop "github.com/firefirestyle/firefirestyle-engine-v01/prop"
 	"golang.org/x/net/context"
 	"google.golang.org/appengine/datastore"
 )

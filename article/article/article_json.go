@@ -6,7 +6,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	miniprop "github.com/firefirestyle/engine-v01/prop"
+	miniprop "github.com/firefirestyle/firefirestyle-engine-v01/prop"
 )
 
 //
